@@ -1,0 +1,48 @@
+body {
+    background-image: linear-gradient(to top, #2725a938, #223392bb, #000833);
+    font: normal 10pt Arial;
+    text-align: center;
+}
+
+header {
+    color: white;
+    padding: 10px;
+
+
+
+
+}
+
+section {
+    color: rgb(255, 255, 255);
+    background: #161e8d;
+    border-radius: 20px;
+    padding: 1px;
+    margin: 100px;
+
+
+
+}
+
+#btn:hover {
+    background-color: rgb(47, 0, 255);
+}
+
+div#dados {
+    text-align: center;
+
+
+}
+
+input::placeholder {
+    font-size: 6pt;
+    text-align: center;
+}
+
+
+
+footer {
+    text-align: center;
+    font: normal 11pt Bebas;
+
+}
